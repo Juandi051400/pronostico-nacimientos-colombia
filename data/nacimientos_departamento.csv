@@ -1,0 +1,199 @@
+anio,codigo_dpto,departamento,nacimientos
+2020,05,Antioquia,71463
+2020,08,Atlántico,41185
+2020,11,Bogotá,92781
+2020,13,Bolívar,33256
+2020,15,Boyacá,13581
+2020,17,Caldas,7780
+2020,18,Caquetá,6345
+2020,19,Cauca,15246
+2020,20,Cesar,23211
+2020,23,Córdoba,24774
+2020,25,Cundinamarca,22363
+2020,27,Chocó,7699
+2020,41,Huila,17343
+2020,44,La Guajira,25100
+2020,47,Magdalena,24106
+2020,50,Meta,15625
+2020,52,Nariño,16650
+2020,54,Norte de Santander,24986
+2020,63,Quindío,5676
+2020,66,Risaralda,10807
+2020,68,Santander,27234
+2020,70,Sucre,15614
+2020,73,Tolima,15201
+2020,76,Valle del Cauca,48082
+2020,81,Arauca,5643
+2020,85,Casanare,6595
+2020,86,Putumayo,4313
+2020,88,Archipiélago de San Andrés y Providencia,736
+2020,91,Amazonas,1127
+2020,94,Guainía,1093
+2020,95,Guaviare,1324
+2020,97,Vaupés,654
+2020,99,Vichada,1809
+2021,05,Antioquia,69808
+2021,08,Atlántico,40237
+2021,11,Bogotá,79820
+2021,13,Bolívar,33956
+2021,15,Boyacá,12683
+2021,17,Caldas,7693
+2021,18,Caquetá,6741
+2021,19,Cauca,15439
+2021,20,Cesar,23843
+2021,23,Córdoba,26168
+2021,25,Cundinamarca,20139
+2021,27,Chocó,8355
+2021,41,Huila,17923
+2021,44,La Guajira,26355
+2021,47,Magdalena,25017
+2021,50,Meta,15536
+2021,52,Nariño,16301
+2021,54,Norte de Santander,24950
+2021,63,Quindío,5429
+2021,66,Risaralda,10711
+2021,68,Santander,26753
+2021,70,Sucre,16668
+2021,73,Tolima,14944
+2021,76,Valle del Cauca,46720
+2021,81,Arauca,5960
+2021,85,Casanare,6607
+2021,86,Putumayo,4598
+2021,88,Archipiélago de San Andrés y Providencia,645
+2021,91,Amazonas,1168
+2021,94,Guainía,1461
+2021,95,Guaviare,1430
+2021,97,Vaupés,852
+2021,99,Vichada,2004
+2022,05,Antioquia,66898
+2022,08,Atlántico,37331
+2022,11,Bogotá,78406
+2022,13,Bolívar,31709
+2022,15,Boyacá,12390
+2022,17,Caldas,7545
+2022,18,Caquetá,5937
+2022,19,Cauca,13416
+2022,20,Cesar,22065
+2022,23,Córdoba,24509
+2022,25,Cundinamarca,18711
+2022,27,Chocó,5776
+2022,41,Huila,16807
+2022,44,La Guajira,23603
+2022,47,Magdalena,22473
+2022,50,Meta,14563
+2022,52,Nariño,14268
+2022,54,Norte de Santander,23059
+2022,63,Quindío,5054
+2022,66,Risaralda,9685
+2022,68,Santander,25127
+2022,70,Sucre,15317
+2022,73,Tolima,13935
+2022,76,Valle del Cauca,42768
+2022,81,Arauca,4744
+2022,85,Casanare,5889
+2022,86,Putumayo,4370
+2022,88,Archipiélago de San Andrés y Providencia,649
+2022,91,Amazonas,1117
+2022,94,Guainía,1371
+2022,95,Guaviare,1279
+2022,97,Vaupés,835
+2022,99,Vichada,2019
+2023,05,Antioquia,59311
+2023,08,Atlántico,32872
+2023,11,Bogotá,74286
+2023,13,Bolívar,28222
+2023,15,Boyacá,11597
+2023,17,Caldas,6666
+2023,18,Caquetá,5225
+2023,19,Cauca,11414
+2023,20,Cesar,18975
+2023,23,Córdoba,21444
+2023,25,Cundinamarca,16982
+2023,27,Chocó,5800
+2023,41,Huila,15688
+2023,44,La Guajira,22166
+2023,47,Magdalena,19443
+2023,50,Meta,13160
+2023,52,Nariño,13119
+2023,54,Norte de Santander,20112
+2023,63,Quindío,4452
+2023,66,Risaralda,8885
+2023,68,Santander,22404
+2023,70,Sucre,13531
+2023,73,Tolima,12419
+2023,76,Valle del Cauca,38397
+2023,81,Arauca,3936
+2023,85,Casanare,5227
+2023,86,Putumayo,3798
+2023,88,Archipiélago de San Andrés y Providencia,567
+2023,91,Amazonas,938
+2023,94,Guainía,1059
+2023,95,Guaviare,1154
+2023,97,Vaupés,688
+2023,99,Vichada,1612
+2024,05,Antioquia,52649
+2024,08,Atlántico,27279
+2024,11,Bogotá,68340
+2024,13,Bolívar,22929
+2024,15,Boyacá,10484
+2024,17,Caldas,6054
+2024,18,Caquetá,5099
+2024,19,Cauca,10218
+2024,20,Cesar,16078
+2024,23,Córdoba,17987
+2024,25,Cundinamarca,16469
+2024,27,Chocó,6822
+2024,41,Huila,13484
+2024,44,La Guajira,20064
+2024,47,Magdalena,15627
+2024,50,Meta,11842
+2024,52,Nariño,11841
+2024,54,Norte de Santander,16407
+2024,63,Quindío,3967
+2024,66,Risaralda,8480
+2024,68,Santander,19318
+2024,70,Sucre,10797
+2024,73,Tolima,10525
+2024,76,Valle del Cauca,34628
+2024,81,Arauca,3353
+2024,85,Casanare,4414
+2024,86,Putumayo,3373
+2024,88,Archipiélago de San Andrés y Providencia,557
+2024,91,Amazonas,877
+2024,94,Guainía,997
+2024,95,Guaviare,1027
+2024,97,Vaupés,578
+2024,99,Vichada,1337
+2025,05,Antioquia,51916
+2025,08,Atlántico,26656
+2025,11,Bogotá,65630
+2025,13,Bolívar,22186
+2025,15,Boyacá,9899
+2025,17,Caldas,5794
+2025,18,Caquetá,4892
+2025,19,Cauca,9642
+2025,20,Cesar,15878
+2025,23,Córdoba,17087
+2025,25,Cundinamarca,17789
+2025,27,Chocó,6495
+2025,41,Huila,13047
+2025,44,La Guajira,19966
+2025,47,Magdalena,14950
+2025,50,Meta,11508
+2025,52,Nariño,11620
+2025,54,Norte de Santander,15624
+2025,63,Quindío,3959
+2025,66,Risaralda,7560
+2025,68,Santander,19008
+2025,70,Sucre,10109
+2025,73,Tolima,10595
+2025,76,Valle del Cauca,33856
+2025,81,Arauca,3238
+2025,85,Casanare,4300
+2025,86,Putumayo,3155
+2025,88,Archipiélago de San Andrés y Providencia,516
+2025,91,Amazonas,909
+2025,94,Guainía,936
+2025,95,Guaviare,985
+2025,97,Vaupés,534
+2025,99,Vichada,1298
